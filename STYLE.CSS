@@ -1,0 +1,73 @@
+body {
+  background-image: url('https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid&w=740');
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-size: cover;
+ 
+}
+h1{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.877);
+  letter-spacing: 5px;
+  font-size: 60px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+  line-height: 80px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background:url('https://png.pngtree.com/thumb_back/fh260/background/20231227/pngtree-aesthetic-backdrop-featuring-a-delicate-light-blue-watercolor-texture-image_13897547.png');
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 40px rgba(0,0,0,0.2);
+  background-size: cover;
+}
+
+.chat-box {
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 40px rgb(39, 20, 215);
+
+
+}
+
+.message {
+  margin: 10px 0;
+}
+
+.user {
+  text-align: right;
+  color: blue;
+}
+
+.bot {
+  text-align: left;
+  color: rgb(1, 11, 1);
+}
+
+.input-area {
+  display: flex;
+  gap: 10px;
+}
+input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+button {
+  padding: 10px 15px;
+  border: none;
+  background: #007BFF;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background: palevioletred;
+}
