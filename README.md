@@ -66,6 +66,10 @@ InsureBot/
 
 ---
 
+# Project link
+
+[Click here to see the project](https://vaishnavijaiswal-1001.github.io/InsureBot/)
+
 # Performance Metrics
 
 * *Average Response Time:* \~1.2 seconds
