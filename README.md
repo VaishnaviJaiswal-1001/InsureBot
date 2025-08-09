@@ -61,7 +61,7 @@ InsureBot/
 5. *Open in browser*
 
    ```
-  
+   https://vaishnavijaiswal-1001.github.io/InsureBot/
    ```
 
 ---
