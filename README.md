@@ -76,9 +76,9 @@ InsureBot/
 
 ---
 
-#  Demo Video
+#  UI
 
-Link to video demo: \[Insert Link Here]
+[project interface](https://github.com/user-attachments/assets/911de41f-14fe-4b80-80db-b027aee0acc9)
 
 ---
 
